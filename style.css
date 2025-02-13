@@ -7,7 +7,11 @@ background-color: #ccd0d5;
     color:blueviolet;
 }
 
+.construtor gatinho_header{
+    width: 10%;
+    border-radius: 10px;
+}
 .constructor gatinho {
-.width: 100%;
+width: 10%;
 border-radius: 10px;
 }
