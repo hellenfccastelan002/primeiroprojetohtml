@@ -1,6 +1,13 @@
 body{
-background-color: rgb(62, 187, 27);
+background-color: #ccd0d5;
 }
+
+.titulo{
+    font-size: 40px;
+    color:blueviolet;
+}
+
 .constructor gatinho {
 .width: 100%;
+border-radius: 10px;
 }
